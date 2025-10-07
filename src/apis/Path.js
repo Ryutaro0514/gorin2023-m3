@@ -1,1 +1,1 @@
-export const  path = "https://localhost:8085/api";
+export const  path = "http://localhost:8085/api";

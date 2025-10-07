@@ -3,6 +3,7 @@ import { useRef } from "react"
 export const LoginScene = ({ login }) => {
     const userRef = useRef(null);
     const passRef = useRef(null);
+    
     return (
         <>
             username: <input type="text" ref={userRef} />
